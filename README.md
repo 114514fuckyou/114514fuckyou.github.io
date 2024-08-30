@@ -1,15 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>网站建设中</title>
-</head>
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,6 +11,5 @@ body {
 <body>
   <h1><img src="/LXTVweb/evs_lxtv_new.png" width="800" height="161" alt=""/></h1>
   <h1><strong>网页建设中</strong></h1>
-    </blockquote>
-  </blockquote>
+    在此期间网站仍能正常运行
 </body>
