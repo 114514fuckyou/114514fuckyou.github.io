@@ -13,3 +13,8 @@
   <h1><strong>网页建设中</strong></h1>
     在此期间网站仍能正常运行
 </body>
+<template>
+  <div class="email-container">
+    <img id="email-img" src="./image/qvnidayede.gif" >
+  </div>
+</template>
